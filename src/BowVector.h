@@ -12,6 +12,8 @@
 
 #include <map>
 #include <vector>
+#include <iostream>
+#include <cstdint>
 #include "exports.h"
 #if _WIN32
 #include <cstdint>
